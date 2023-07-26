@@ -21,7 +21,7 @@ To run the Album App locally on your machine, follow the instructions below:
 
 ```bash
       # Clone the repository to your local machine using Git:
-      git clone [https://github.com/your-Sk4524/Album-App.git](https://github.com/Sk4524/Album-App.git)
+      git clone [https://github.com/Sk4524/Album-App.git](https://github.com/Sk4524/Album-App.git)
       
       # Change into the project directory:
       cd album-app
