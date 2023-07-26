@@ -1,0 +1,31 @@
+
+[
+  {
+    "id": 1,
+    "albumId": 1,
+    "title": "Photo 1",
+    "url": "https://via.placeholder.com/300/92c952",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+  },
+  {
+    "id": 2,
+    "albumId": 1,
+    "title": "Photo 2",
+    "url": "https://via.placeholder.com/300/771796",
+    "thumbnailUrl": "https://via.placeholder.com/150/771796"
+  },
+  {
+    "id": 3,
+    "albumId": 2,
+    "title": "Photo 3",
+    "url": "https://via.placeholder.com/300/24f355",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+  },
+  {
+    "id": 4,
+    "albumId": 2,
+    "title": "Photo 4",
+    "url": "https://via.placeholder.com/300/d32776",
+    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+  }
+]

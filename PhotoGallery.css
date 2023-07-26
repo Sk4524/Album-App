@@ -1,0 +1,106 @@
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+#root {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.album {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.album h3 {
+  font-size: 18px;
+  color: #333;
+}
+
+.album p {
+  color: #666;
+}
+
+.album img {
+  display: block;
+  margin: 10px auto;
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+.form-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.form-container label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.form-container input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.form-container button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.form-container button:last-child {
+  margin-top: 10px;
+  background-color: #dc3545;
+}
+
+.form-container button:hover {
+  background-color: #0056b3;
+}
+
+.form-container button:last-child:hover {
+  background-color: #c82333;
+}
+
+.update-form {
+  margin-top: 30px;
+}
+
+.update-form button {
+  margin-right: 10px;
+  background-color: #28a745;
+}
+
+.update-form button:last-child {
+  background-color: #dc3545;
+}
