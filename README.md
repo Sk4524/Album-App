@@ -21,7 +21,7 @@ To run the Album App locally on your machine, follow the instructions below:
 
 ```bash
       # Clone the repository to your local machine using Git:
-      git clone https://github.com/your-username/album-app.git
+      git clone [https://github.com/your-Sk4524/Album-App.git](https://github.com/your-Sk4524/Album-App.git)
       
       # Change into the project directory:
       cd album-app
@@ -30,9 +30,9 @@ To run the Album App locally on your machine, follow the instructions below:
       npm install
       
       # Start the development server:
-      npm start
+      'npm start'
 
-Open your browser and go to http://localhost:3000 to access the app.
+Open your browser and go to [http://localhost:3000](http://localhost:3000) to access the app.
 
 How to Use
 View Albums: Upon launching the app, you'll see a list of existing albums (if any) with their titles, user IDs, and album IDs.
